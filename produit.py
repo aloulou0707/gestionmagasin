@@ -1,6 +1,8 @@
 ref =input("donner la référance ;")
 designation=input("donner la désignation")
 prix=float(input("donner le prix unitaire"))
+quantité=int(input("donner la quantité en stock"))
 print("référance :",ref)
 print("designation:",designation)
 print("prix",prix)
+print("quantité en stock :",quantité)
